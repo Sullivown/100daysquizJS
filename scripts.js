@@ -1,176 +1,176 @@
 const quiz = {
     1: {
-        image: "/images/001.jpg",
+        image: "images/001.jpg",
         answer: "jean-claude van damme",
         hint: "Brussels"
     },
     2: {
-        image: "/images/002.jpg",
+        image: "images/002.jpg",
         answer: "scarlett johansson",
         hint: "Widow"
     },
     3: {
-        image: "/images/003.jpg",
+        image: "images/003.jpg",
         answer: "elton john",
         hint: "Goes 'Meow'"
     },
     4: {
-        image: "/images/004.jpg",
+        image: "images/004.jpg",
         answer: "rupaul",
         hint: "Goes 'Meow'"
     },
     5: {
-        image: "/images/005.jpg",
+        image: "images/005.jpg",
         answer: "jennifer hudson",
         hint: "Goes 'Meow'"
     },
     6: {
-        image: "/images/006.jpg",
+        image: "images/006.jpg",
         answer: "tina turner",
         hint: "Goes 'Meow'"
     },
     7: {
-        image: "/images/007.jpg",
+        image: "images/007.jpg",
         answer: "howard",
         hint: "Goes 'Meow'"
     },
     8: {
-        image: "/images/008.jpg",
+        image: "images/008.jpg",
         answer: "gal gadot",
         hint: "Goes 'Meow'"
     },
     9: {
-        image: "/images/009.jpg",
+        image: "images/009.jpg",
         answer: "rod stewart",
         hint: "Goes 'Meow'"
     },
     10: {
-        image: "/images/010.jpg",
+        image: "images/010.jpg",
         answer: "thandie newton",
         hint: "Goes 'Meow'"
     },
     11: {
-        image: "/images/011.jpg",
+        image: "images/011.jpg",
         answer: "miranda hart",
         hint: "Goes 'Meow'"
     },
     12: {
-        image: "/images/012.jpg",
+        image: "images/012.jpg",
         answer: "nelson mandela",
         hint: "Goes 'Meow'"
     },
     13: {
-        image: "/images/013.jpg",
+        image: "images/013.jpg",
         answer: "lizzo",
         hint: "Goes 'Meow'"
     },
     14: {
-        image: "/images/014.jpg",
+        image: "images/014.jpg",
         answer: "romesh ranganathan",
         hint: "Goes 'Meow'"
     },
     15: {
-        image: "/images/015.jpg",
+        image: "images/015.jpg",
         answer: "dwayne johnson",
         hint: "Goes 'Meow'"
     },
     16: {
-        image: "/images/016.jpg",
+        image: "images/016.jpg",
         answer: "carol vorderman",
         hint: "Goes 'Meow'"
     },
     17: {
-        image: "/images/017.jpg",
+        image: "images/017.jpg",
         answer: "hannah fry",
         hint: "Goes 'Meow'"
     },
     18: {
-        image: "/images/018.jpg",
+        image: "images/018.jpg",
         answer: "marjorie lee browne",
         hint: "Goes 'Meow'"
     },
     19: {
-        image: "/images/019.jpg",
+        image: "images/019.jpg",
         answer: "alan turing",
         hint: "Goes 'Meow'"
     },
     20: {
-        image: "/images/020.jpg",
+        image: "images/020.jpg",
         answer: "maryam mirzakhani",
         hint: "Goes 'Meow'"
     },
     21: {
-        image: "/images/021.jpg",
+        image: "images/021.jpg",
         answer: "dara o briain",
         hint: "Goes 'Meow'"
     },
     22: {
-        image: "/images/022.jpg",
+        image: "images/022.jpg",
         answer: "florence nightingale",
         hint: "Goes 'Meow'"
     },
     23: {
-        image: "/images/023.jpg",
+        image: "images/023.jpg",
         answer: "miriam margolyes",
         hint: "Goes 'Meow'"
     },
     24: {
-        image: "/images/024.jpg",
+        image: "images/024.jpg",
         answer: "skin",
         hint: "Goes 'Meow'"
     },
     25: {
-        image: "/images/025.jpg",
+        image: "images/025.jpg",
         answer: "sandi toksvig",
         hint: "Goes 'Meow'"
     },
     26: {
-        image: "/images/026.jpg",
+        image: "images/026.jpg",
         answer: "denzel washington",
         hint: "Goes 'Meow'"
     },
     27: {
-        image: "/images/027.jpg",
+        image: "images/027.jpg",
         answer: "sandra oh",
         hint: "Goes 'Meow'"
     },
     28: {
-        image: "/images/028.jpg",
+        image: "images/028.jpg",
         answer: "sue perkins",
         hint: "Goes 'Meow'"
     },
     29: {
-        image: "/images/029.jpg",
+        image: "images/029.jpg",
         answer: "alan rickman",
         hint: "Goes 'Meow'"
     },
     30: {
-        image: "/images/030.jpg",
+        image: "images/030.jpg",
         answer: "neil patrick harris",
         hint: "Goes 'Meow'"
     },
     31: {
-        image: "/images/031.jpg",
+        image: "images/031.jpg",
         answer: "gok wan",
         hint: "Goes 'Meow'"
     },
     32: {
-        image: "/images/032.jpg",
+        image: "images/032.jpg",
         answer: "alexandria ocasio-cortez",
         hint: "Goes 'Meow'"
     },
     33: {
-        image: "/images/033.jpg",
+        image: "images/033.jpg",
         answer: "robin williams",
         hint: "Goes 'Meow'"
     },
     34: {
-        image: "/images/034.jpg",
+        image: "images/034.jpg",
         answer: "frida kahlo",
         hint: "Goes 'Meow'"
     },
     35: {
-        image: "/images/035.jpg",
+        image: "images/035.jpg",
         answer: "cynthia nixon",
         hint: "Goes 'Meow'"
     }
