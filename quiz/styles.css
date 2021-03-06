@@ -1,0 +1,39 @@
+#quizarea {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.question-card {
+    margin: 10px;
+}
+
+button {
+    margin-bottom: 15px;
+}
+
+.card-text {
+    margin-bottom: 15px;
+}
+
+.input {
+    height: 38px;
+}
+
+.success {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+    animation-name: success;
+    animation-duration: 2s;
+    animation-fill-mode: forward;
+}
+
+
+@keyframes success {
+    from {
+        font-size: 0px;
+    }
+    to {
+    }
+}
